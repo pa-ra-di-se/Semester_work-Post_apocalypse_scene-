@@ -4,7 +4,7 @@
  
 ## Работа обязательно должна включать в себя следующее: 
  
-- Минимум 5 сложных объектов(состоящих из примитивов) на сцене   
+- Минимум 5 сложных объектов(состоящих из примитивов) на сцене     
     https://threejsfundamentals.org/threejs/lessons/threejs-primitives.html
  
 - Использование различных текстур для каждого объекта. Сайты, которые могут в этом помочь:   
@@ -13,12 +13,12 @@
     https://www.poliigon.com/  
     https://github.com/nidorx/matcaps  
  
-- Для одного объекта использовать карты окружений в качестве текстур.   
+- Для одного объекта использовать карты окружений в качестве текстур.     
     Карты можно взять отсюда - https://polyhaven.com/hdris    
     Преобразователь HDRI в кубические карты - https://matheowis.github.io/HDRI-to-CubeMap   
     Документация - https://threejs.org/docs/#api/en/loaders/CubeTextureLoader  
  
-- Использование 2 вида методов для анимаций GreenSock, gsap.to или gsap.from и gsap.timeline:   
+- Использование 2 вида методов для анимаций GreenSock, gsap.to или gsap.from и gsap.timeline:     
     https://greensock.com/docs/v3/GSAP/gsap.to()  
     https://greensock.com/docs/v3/GSAP/gsap.from()  
     https://greensock.com/docs/v3/GSAP/Timeline  
@@ -37,6 +37,7 @@
 - Сделать взимодействие сцены с любыми двумя слушателями событий  
     (https://developer.mozilla.org/ru/docs/Web/Events ) 
  
-- Добавить тени (https://threejs.org/manual/#en/shadows) 
+- Добавить тени   
+    (https://threejs.org/manual/#en/shadows) 
  
 - Реализовать разворачивание сцены на полный экран при двойном клике по левой кнопке мыши 
