@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mossy Dirty Crashed Plane
+* source:	https://sketchfab.com/3d-models/mossy-dirty-crashed-plane-7c0fc1d24a934a829cfa6c404204d6ef
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mossy Dirty Crashed Plane" (https://sketchfab.com/3d-models/mossy-dirty-crashed-plane-7c0fc1d24a934a829cfa6c404204d6ef) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
